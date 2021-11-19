@@ -7,14 +7,6 @@
 
 [Examples](#examples)
 
-[Collaborator Credits](#collab)
-
-[License Badge and Link](#license)
-
-[Features](#features)
-
-[Contribution](#contriubte)
-
 ## Description {#description}
 
 Generates a readme.MD file
