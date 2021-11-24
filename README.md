@@ -16,7 +16,6 @@ Generates a readme.MD file
 
 ![image of command prompt](src/images/cmd.jpg?raw=true "Command Prompt")
 
-![image of deployed readme](src/images/deployed-readme.jpg?raw=true "Deployed Readme")
 
 ## Installation Instructions {#installation}
 
