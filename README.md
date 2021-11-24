@@ -10,6 +10,7 @@
 ## Description {#description}
 
 Generates a readme.MD file
+[video walkthrough](https://bootcampspot.instructuremedia.com/embed/cf9b3f0c-bba1-460d-abea-2e52f44e7815)
 
 ## Installation Instructions {#installation}
 
