@@ -1,4 +1,4 @@
-# Chase's Amazing Website
+# Team Profile Generator
 # Table of Contents
 
 [Description](#description)
@@ -17,33 +17,33 @@
 
 ## Description {#description}
 
-It's a website that is not only amazing, but also spectacular
+An app that allows the user to enter all their teams information and keep it on an easy to read html page.
 
 ## Installation Instructions {#installation}
 
-Download the exe file from alsdkjflasdkfj.com
+Clone the github repo, and make sure to install npm and inquirer.
 
 ## Examples for use {#examples}
 
-You can use this website to become more amazing, and also more spectacular, your boss will love you, your wife will love you even more, your cat will love you.
+Run index.js in your command line and when you're done going through all the prompts an HTML file will be created in your own dist folder.
 
 ## Collaborator Credits {#collab}
 
-Peachie Mojito
+UT-Code-Camp
 
 ## License Badge and Link {#license}
 
-[![License: IPL 1.0](https://img.shields.io/badge/License-IPL_1.0-blue.svg)](https://opensource.org/licenses/IPL-1.0)
+[![License: MPL 2.0](https://img.shields.io/badge/License-MPL_2.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
 
-https://opensource.org/licenses/IPL-1.0
+https://opensource.org/licenses/MPL-2.0
 
 ## Features {#features}
 
-The amazingness generator, The Spectacular whatsit, and the extroardinary thermal capacitor
+HTML generation.
 
 ## How can others contribute? {#contribute}
 
-They can give me lots of money
+
 
 ## Questions, comments concerns? {#questions}
 
